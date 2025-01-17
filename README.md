@@ -73,3 +73,9 @@ Contributions are welcome! Please fork the repository and create a pull request 
 - Uses the Poppins font from Google Fonts.
 
 Enjoy your music experience with SpotifyNow!
+
+## Deployment
+
+You can view the live deployment of this project at the following link:
+
+[Deployment Link](https://sportifynow.freewebhostmost.com/)
