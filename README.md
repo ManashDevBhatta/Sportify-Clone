@@ -22,19 +22,19 @@ SpotifyNow is a web-based music player that allows users to browse and play song
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/spotify-now.git
+    git clone https://github.com/ManashDevBhatta/Sportify-Clone.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd spotify-now
+    cd Spotify-Clone
     ```
 
 3. Start your local server and ensure it points to the project directory.
 
 ### Usage
 
-1. Open your web browser and navigate to the local server URL (e.g., `http://localhost/spotify-now`).
+1. Open your web browser and navigate to the local server URL.
 2. Browse through the available playlists and click on any song to start playing.
 3. Use the controls at the bottom to play, pause, skip, and adjust the volume.
 
