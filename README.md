@@ -2,7 +2,6 @@
 
 SpotifyNow is a web-based music player that allows users to browse and play songs from various artists. This project mimics the functionality of a music streaming service, providing a user-friendly interface to explore and enjoy music.
 
-## Project Structure
 
 ## Features
 
@@ -27,7 +26,7 @@ SpotifyNow is a web-based music player that allows users to browse and play song
 
 2. Navigate to the project directory:
     ```sh
-    cd Spotify-Clone
+    cd Sportify-Clone
     ```
 
 3. Start your local server and ensure it points to the project directory.
