@@ -77,4 +77,4 @@ Enjoy your music experience with SpotifyNow!
 
 You can view the live deployment of this project at the following link:
 
-[Deployment Link](https://sportifynow.freewebhostmost.com/)
+[Deployment Link](https://clonesportify.web.app/)
